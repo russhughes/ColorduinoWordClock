@@ -15,6 +15,7 @@ Software:
 
 This code requires the following libraries:
 	ColorDuino Library from https://github.com/lincomatic/Colorduino/archive/master.zip
+	
  	Adarfruit RTClib from https://github.com/adafruit/RTClib/archive/master.zip		
 
     grid pattern
@@ -30,7 +31,7 @@ This code requires the following libraries:
 
 Acknowledgements:
 	- Thanks Dano for faceplate / 3D models & project inspiration!
-    - Thanks Andy Doro for his NeoPixel Word Clock
+    	- Thanks Andy Doro for his NeoPixel Word Clock
 	- Thanks Sam C. Lin <lincomatic@hotmail.com> for the Colorduino Library
 
 Hardware:
