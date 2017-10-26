@@ -1,7 +1,6 @@
 # WORD CLOCK - 8x8 Colorduino Desktop Edition
-Hacked up by Russ Hughes
+I Hacked up, Adapted and Remixed from WORD CLOCK - 8x8 NeoPixel Desktop Edition by Andy Doro 
 
-Adapted and Remixed from:
 WORD CLOCK - 8x8 NeoPixel Desktop Edition by Andy Doro
 
 ## Hardware:
