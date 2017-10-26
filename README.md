@@ -14,8 +14,8 @@ Hardware:
 Software:
 
 This code requires the following libraries:  
-ColorDuino Library from https://github.com/lincomatic/Colorduino/archive/master.zip  
-Adarfruit RTClib from https://github.com/adafruit/RTClib/archive/master.zip  		
+- ColorDuino Library from https://github.com/lincomatic/Colorduino/archive/master.zip  
+- Adarfruit RTClib from https://github.com/adafruit/RTClib/archive/master.zip  		
 
     grid pattern
 
