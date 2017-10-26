@@ -28,15 +28,15 @@ Software:
     T W E L E V E N
     F O U R N I N E
 
-	Acknowledgements:
-	- Thanks Dano for faceplate / 3D models & project inspiration!
-	- Thanks Andy Doro for his NeoPixel Word Clock
-	- Thanks Sam C. Lin <lincomatic@hotmail.com> for the Colorduino Library
+Acknowledgements:
+- Thanks Dano for faceplate / 3D models & project inspiration!
+- Thanks Andy Doro for his NeoPixel Word Clock
+- Thanks Sam C. Lin <lincomatic@hotmail.com> for the Colorduino Library
 
-	Hardware:
+Hardware:
 
-	Connect the RTC module to the SCA, SCL, GND and VDD pins on the Colorduino
-	Connect one pin of a push button to RXD on the Colorduino and the other to GND to adjust the hours 
-	Connect one pin of a push button to TXD on the Colorduino and the other to GND to adjuet the minutes
+Connect the RTC module to the SCA, SCL, GND and VDD pins on the Colorduino
+Connect one pin of a push button to RXD on the Colorduino and the other to GND to adjust the hours 
+Connect one pin of a push button to TXD on the Colorduino and the other to GND to adjuet the minutes
 	
 	
